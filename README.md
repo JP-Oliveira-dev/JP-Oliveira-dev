@@ -21,7 +21,8 @@
 
 
 
-## I'm a web developer student, currently focused on Back-End development. :computer:
+## I'm a web developer student, currently focused on Back-End development. :computer: <br></br>
+
 
 <br>🌱 I’m currently improving my skills in TypeScript & NodeJS</br>
 <br>😄 My Stack: TypeScript & NodeJS </br>
