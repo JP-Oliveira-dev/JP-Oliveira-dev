@@ -25,5 +25,4 @@
 
 
 <br><p>🌱 I’m currently improving my skills in TypeScript & NodeJS</p> 
-<p>😄 My Stack: TypeScript & NodeJS</p> 
-<p>📫 How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrodeoliveira10@hotmail.com)](mailto:joaopedrodeoliveira10@hotmail.com/)</p> </br>
+<p>😄 My Stack: TypeScript & NodeJS</p> </br>
