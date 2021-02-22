@@ -25,7 +25,7 @@
 
 
 
-<b>I'm a web developer student, currently focused on Back-End development. :computer:<b> <br></br>
+<b>I'm a web development student, currently focused on Back-End development. :computer:<b> <br></br>
 
 
 <br><p>🌱 I’m currently improving my skills in TypeScript & NodeJS</p> 
