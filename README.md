@@ -1,4 +1,4 @@
-### Hey there 👋
+
 
 <!--
 **JP-Oliveira-dev/JP-Oliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
@@ -19,7 +19,8 @@
   </a>
 </p>
 
-### I'm a web developer student currently focused on Back-end development. 
+## Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### I'm a web developer student, currently focused on Back-End development. :computer:
 🌱 I’m currently improving my skills in TypeScript & NodeJS
 😄 My Stack: TypeScript & NodeJS
-📫 How to reach me: 
+📫 How to reach me: [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrodeoliveira10@hotmail.com)](mailto:joaopedrodeoliveira10@hotmail.com/)
