@@ -5,7 +5,7 @@
 <!--
 **JP-Oliveira-dev/JP-Oliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-<p align="center"><a href="https://ibb.co/kgbyp0L"><img src="https://i.ibb.co/TBjTZRQ/developer-guide-blog-2-1.png" alt="developer-guide-blog-2-1" border="0"></a> </p>
+<p align="center"><a href="https://ibb.co/Fz7PwX4"><img src="https://i.ibb.co/gJgnTdZ/developer-guide-blog-2-1.png" alt="developer-guide-blog-2-1" border="0"></a> </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
