@@ -1,7 +1,13 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+---
+
 <!--
 **JP-Oliveira-dev/JP-Oliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+
+<p align="center>
+      <img src="">         
+ </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,4 +31,4 @@
 
 
 <br><p>🌱 I’m currently improving my skills in TypeScript & NodeJS</p> 
-<p>😄 My Stack: TypeScript & NodeJS</p> </br>
+<p>👨‍💻  My Stack: TypeScript & NodeJS</p> </br>
