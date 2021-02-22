@@ -24,6 +24,6 @@
 <b>I'm a web developer student, currently focused on Back-End development. :computer:<b> <br></br>
 
 
-<br>🌱 I’m currently improving my skills in TypeScript & NodeJS \n
-😄 My Stack: TypeScript & NodeJS \n
-📫 How to reach me: [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrodeoliveira10@hotmail.com)](mailto:joaopedrodeoliveira10@hotmail.com/) </br>
+<br><p>🌱 I’m currently improving my skills in TypeScript & NodeJS</p> 
+<p>😄 My Stack: TypeScript & NodeJS</p> 
+<p>📫 How to reach me: [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrodeoliveira10@hotmail.com)](mailto:joaopedrodeoliveira10@hotmail.com/)</p> </br>
