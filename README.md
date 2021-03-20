@@ -25,8 +25,8 @@
 
 
 
-<b>I'm a web development student, currently focused on Back-End development. :computer:<b> <br></br>
+<b>I'm a web development student, currently focused on fullstack development. :computer:<b> <br></br>
 
 
-<br><p>🌱 I’m currently improving my skills in TypeScript & NodeJS</p> 
+<br><p>🌱 I’m currently improving my skills in TypeScript, NodeJS, HTML, CSS, React, Bootstrap</p> 
 <p>👨‍💻  My Stack: TypeScript & NodeJS</p> </br>
