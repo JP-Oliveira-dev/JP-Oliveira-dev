@@ -5,8 +5,6 @@
 <!--
 **JP-Oliveira-dev/JP-Oliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-<p align="center"><a href="https://ibb.co/Fz7PwX4"><img src="https://i.ibb.co/gJgnTdZ/developer-guide-blog-2-1.png" alt="developer-guide-blog-2-1" border="0"></p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -28,5 +26,5 @@
 <b>I'm a web development student, currently focused on fullstack development. :computer:<b> <br></br>
 
 
-<br><p>🌱 I’m currently improving my skills in TypeScript, NodeJS, HTML, CSS, React, Bootstrap</p> 
+<br><p>🌱 I’m currently improving my skills in PHP, TypeScript, NodeJS, React</p> 
 <p>👨‍💻  My Stack: TypeScript & NodeJS</p> </br>
